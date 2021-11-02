@@ -1,0 +1,45 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+      "name":"Waterdeep"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.781679480723, 38.52522232788647]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+      "name":"Neverwinter"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.15164102622185, 42.40079024987824]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+      "name":"Luskan"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-78.79742452523175, 44.450750885576696]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+      "name":"Baldur's Gate"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.60290749930321, 30.545202102349634]
+      }
+    }
+  ]
+}

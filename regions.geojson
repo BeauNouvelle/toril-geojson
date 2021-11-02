@@ -1,0 +1,46 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+      "name":"Westwood"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-75.65174501388981, 39.55727330230613],
+          [-74.88336278927467, 39.64343954886533]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+      "name":"Kryptgarden Forest"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-75.53065879676113, 39.99605443246688],
+          [-74.53656731305406, 40.57981866496772],
+          [-74.05868016037951, 41.28842799004491]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+      "name":"Sword Mountains"
+      },
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-76.72226055002247, 39.96382779824347],
+          [-76.03618396248399, 40.83073806943469],
+          [-75.20822538117278, 41.409453331702736]
+        ]
+      }
+    }
+  ]
+}

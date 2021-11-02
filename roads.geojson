@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "1",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.79992186693359,
+            38.5130746392702
+          ],
+          [
+            -74.76086702354631,
+            38.52617020100362
+          ]
+        ]
+      },
+      "properties": {
+        "is_in": "Waterdeep",
+        "name": "The High Road"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "3",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [
+            -74.73509702402289,
+            38.53399741951904
+          ],
+          [
+            -74.68424514032938,
+            38.548427187651384
+          ]
+        ]
+      },
+      "properties": {
+        "is_in": "Waterdeep",
+        "name": "The High Road"
+      }
+    }
+  ]
+}
