@@ -61,7 +61,7 @@
       "name":"Ardeep\nForest"
       },
       "geometry": {
-        "type": "LineString",
+        "type": "MultiLineString",
         "coordinates": [
           [-73.80467923144623, 38.34206211047041],
           [-72.79269345461245, 38.35770026174745]
