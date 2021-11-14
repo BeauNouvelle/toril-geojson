@@ -120,6 +120,36 @@
         "is_in": "Waterdeep",
         "name": "Sul Street"
       }
+    },
+    {
+      "type": "Feature",
+      "id": "9",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-74.81791560799128, 38.641413444263776],
+          [-74.81789821916882, 38.637719078818094]
+        ]
+      },
+      "properties": {
+        "is_in": "Waterdeep",
+        "name": "Mendever Street"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "10",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-74.81789821916882, 38.637719078818094],
+          [-74.81791560799128, 38.63334535592722]
+        ]
+      },
+      "properties": {
+        "is_in": "Waterdeep",
+        "name": "Mendever Street"
+      }
     }
   ]
 }
