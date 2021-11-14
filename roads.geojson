@@ -150,6 +150,36 @@
         "is_in": "Waterdeep",
         "name": "Mendever Street"
       }
+    },
+    {
+      "type": "Feature",
+      "id": "11",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-74.81777882449403, 38.633507966623796],
+          [-74.81686572214011, 38.634160100714894]
+        ]
+      },
+      "properties": {
+        "is_in": "Waterdeep",
+        "name": "Heard Lane"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "12",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-74.81540997610153, 38.63399299191937],
+          [-74.8147368892235, 38.63396853694098]
+        ]
+      },
+      "properties": {
+        "is_in": "Waterdeep",
+        "name": "Manycats Alley"
+      }
     }
   ]
 }
