@@ -259,6 +259,23 @@
         "is_in": "Waterdeep",
         "name": "The Fieldway"
       }
+    },
+    {
+      "type": "Feature",
+      "id": "18",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-74.81777730303179, 38.64288790979168],
+          [-74.81759087967608, 38.64280971362848],
+          [-74.81750802485132, 38.64281106183893],
+          [-74.81733713677527, 38.642723428107985]
+        ]
+      },
+      "properties": {
+        "is_in": "Waterdeep",
+        "name": "Flipcoin Alley"
+      }
     }
   ]
 }
