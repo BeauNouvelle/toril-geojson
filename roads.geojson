@@ -30,6 +30,36 @@
         "is_in": "Waterdeep",
         "name": "The High Road"
       }
+    },
+        {
+      "type": "Feature",
+      "id": "3",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-74.81457147725996, 38.64118549039466],
+          [-74.81453118661291, 38.63731222855955] 
+        ]
+      },
+      "properties": {
+        "is_in": "Waterdeep",
+        "name": "Copper Street"
+      }
+    },
+        {
+      "type": "Feature",
+      "id": "3",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+            [-74.81453118661291, 38.63731222855955],
+            [-74.81449178757946, 38.633172853046204]
+        ]
+      },
+      "properties": {
+        "is_in": "Waterdeep",
+        "name": "Copper Street"
+      }
     }
   ]
 }
