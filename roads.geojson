@@ -18,7 +18,7 @@
     },
     {
       "type": "Feature",
-      "id": "3",
+      "id": "2",
       "geometry": {
         "type": "LineString",
         "coordinates": [
@@ -31,7 +31,7 @@
         "name": "The High Road"
       }
     },
-        {
+    {
       "type": "Feature",
       "id": "3",
       "geometry": {
@@ -46,9 +46,9 @@
         "name": "Copper Street"
       }
     },
-        {
+    {
       "type": "Feature",
-      "id": "3",
+      "id": "4",
       "geometry": {
         "type": "LineString",
         "coordinates": [
