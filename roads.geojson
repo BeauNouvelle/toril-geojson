@@ -60,6 +60,66 @@
         "is_in": "Waterdeep",
         "name": "Copper Street"
       }
+    },
+    {
+      "type": "Feature",
+      "id": "5",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-74.81553111821808, 38.64108986439277],
+          [-74.81551356794388, 38.63771760653947]
+        ]
+      },
+      "properties": {
+        "is_in": "Waterdeep",
+        "name": "Shield Street"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "6",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-74.81551356794388, 38.63771760653947],
+          [-74.81553111821808, 38.63323472546722]
+        ]
+      },
+      "properties": {
+        "is_in": "Waterdeep",
+        "name": "Shield Street"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "7",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-74.81674803681715, 38.64100177481487],
+          [-74.81676755511039, 38.63769348403841]
+        ]
+      },
+      "properties": {
+        "is_in": "Waterdeep",
+        "name": "Sul Street"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "8",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-74.81676755511039, 38.63769348403841],
+          [-74.81674803681715, 38.63395813350181]
+        ]
+      },
+      "properties": {
+        "is_in": "Waterdeep",
+        "name": "Sul Street"
+      }
     }
   ]
 }
