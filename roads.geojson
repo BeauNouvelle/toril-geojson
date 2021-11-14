@@ -180,6 +180,51 @@
         "is_in": "Waterdeep",
         "name": "Manycats Alley"
       }
+    },
+    {
+      "type": "Feature",
+      "id": "13",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-74.81828025341574, 38.63316443210812],
+          [-74.81420263422221, 38.633115802017784]
+        ]
+      },
+      "properties": {
+        "is_in": "Waterdeep",
+        "name": "Traders Way"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "14",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-74.81935013007445, 38.63582099540338], 
+          [-74.81863766276946, 38.634576522173916]
+        ]
+      },
+      "properties": {
+        "is_in": "Waterdeep",
+        "name": "The Sutherlane"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "15",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-74.81863766276946, 38.634576522173916],
+          [-74.81831111525466, 38.633308837789684]
+        ]
+      },
+      "properties": {
+        "is_in": "Waterdeep",
+        "name": "The Sutherlane"
+      }
     }
   ]
 }
