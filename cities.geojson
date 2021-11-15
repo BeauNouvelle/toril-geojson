@@ -4,7 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-      "name":"Waterdeep"
+          "name":"Waterdeep",
+          "type":"city"
       },
       "geometry": {
         "type": "Point",
@@ -14,7 +15,8 @@
     {
       "type": "Feature",
       "properties": {
-      "name":"Neverwinter"
+          "name":"Neverwinter",
+          "type":"city"
       },
       "geometry": {
         "type": "Point",
@@ -24,7 +26,8 @@
     {
       "type": "Feature",
       "properties": {
-      "name":"Luskan"
+          "name":"Luskan",
+          "type":"city"
       },
       "geometry": {
         "type": "Point",
@@ -34,7 +37,8 @@
     {
       "type": "Feature",
       "properties": {
-      "name":"Baldur's Gate"
+          "name":"Baldur's Gate",
+          "type":"city"
       },
       "geometry": {
         "type": "Point",
