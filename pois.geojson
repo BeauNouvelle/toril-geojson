@@ -1,0 +1,20 @@
+{
+	"type": "FeatureCollection",
+	"features": [ 
+		{
+			"type": "Feature",
+			"id": "1",
+			"geometry": {
+				"type": "LineString",
+				"coordinates": [
+					[-74.81353206997285, 38.63419756698954],
+					[-74.81292582595796, 38.62585502948599]
+				]
+			},
+			"properties": {
+				"is_in": "Waterdeep",
+				"name": "The High Road"
+			}
+		}
+	]
+}

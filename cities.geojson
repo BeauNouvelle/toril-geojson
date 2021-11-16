@@ -4,8 +4,8 @@
     {
       "type": "Feature",
       "properties": {
-          "name":"Waterdeep",
-          "style":"city"
+        "name":"Waterdeep",
+        "style":"city"
       },
       "geometry": {
         "type": "Point",
@@ -15,8 +15,8 @@
     {
       "type": "Feature",
       "properties": {
-          "name":"Neverwinter",
-          "style":"city"
+        "name":"Neverwinter",
+        "style":"city"
       },
       "geometry": {
         "type": "Point",
@@ -26,8 +26,8 @@
     {
       "type": "Feature",
       "properties": {
-          "name":"Luskan",
-          "style":"city"
+        "name":"Luskan",
+        "style":"city"
       },
       "geometry": {
         "type": "Point",
@@ -37,8 +37,8 @@
     {
       "type": "Feature",
       "properties": {
-          "name":"Baldur's Gate",
-          "style":"city"
+        "name":"Baldur's Gate",
+        "style":"city"
       },
       "geometry": {
         "type": "Point",
@@ -48,8 +48,8 @@
     {
       "type": "Feature",
       "properties": {
-          "name":"Athkatla",
-          "style":"city"
+        "name":"Athkatla",
+        "style":"city"
       },
       "geometry": {
         "type": "Point",
@@ -59,8 +59,8 @@
     {
       "type": "Feature",
       "properties": {
-          "name":"Murann",
-          "style":"city"
+        "name":"Murann",
+        "style":"city"
       },
       "geometry": {
         "type": "Point",
@@ -70,8 +70,8 @@
     {
       "type": "Feature",
       "properties": {
-          "name":"Velen",
-          "style":"city"
+        "name":"Velen",
+        "style":"city"
       },
       "geometry": {
         "type": "Point",
@@ -81,8 +81,8 @@
     {
       "type": "Feature",
       "properties": {
-          "name":"Zazesspur",
-          "style":"city"
+        "name":"Zazesspur",
+        "style":"city"
       },
       "geometry": {
         "type": "Point",
@@ -92,8 +92,8 @@
     {
       "type": "Feature",
       "properties": {
-          "name":"Corwell",
-          "style":"city"
+        "name":"Corwell",
+        "style":"city"
       },
       "geometry": {
         "type": "Point",
@@ -103,8 +103,8 @@
     {
       "type": "Feature",
       "properties": {
-          "name":"Myratma",
-          "style":"city"
+        "name":"Myratma",
+        "style":"city"
       },
       "geometry": {
         "type": "Point",
@@ -114,8 +114,8 @@
     {
       "type": "Feature",
       "properties": {
-          "name":"Memnon",
-          "style":"city"
+        "name":"Memnon",
+        "style":"city"
       },
       "geometry": {
         "type": "Point",
@@ -125,8 +125,8 @@
     {
       "type": "Feature",
       "properties": {
-          "name":"Darrowmar",
-          "style":"city"
+        "name":"Darrowmar",
+        "style":"city"
       },
       "geometry": {
         "type": "Point",
@@ -136,8 +136,8 @@
     {
       "type": "Feature",
       "properties": {
-          "name":"Mintar",
-          "style":"city"
+        "name":"Mintar",
+        "style":"city"
       },
       "geometry": {
         "type": "Point",
@@ -147,8 +147,8 @@
     {
       "type": "Feature",
       "properties": {
-          "name":"Saelmur",
-          "style":"city"
+        "name":"Saelmur",
+        "style":"city"
       },
       "geometry": {
         "type": "Point",
@@ -158,8 +158,8 @@
     {
       "type": "Feature",
       "properties": {
-          "name":"Ankhapur",
-          "style":"city"
+        "name":"Ankhapur",
+        "style":"city"
       },
       "geometry": {
         "type": "Point",
@@ -169,8 +169,8 @@
     {
       "type": "Feature",
       "properties": {
-          "name":"Surkh",
-          "style":"city"
+        "name":"Surkh",
+        "style":"city"
       },
       "geometry": {
         "type": "Point",
@@ -180,8 +180,8 @@
     {
       "type": "Feature",
       "properties": {
-          "name":"Nimpeth",
-          "style":"city"
+        "name":"Nimpeth",
+        "style":"city"
       },
       "geometry": {
         "type": "Point",
@@ -191,8 +191,8 @@
     {
       "type": "Feature",
       "properties": {
-          "name":"Mimph",
-          "style":"city"
+        "name":"Mimph",
+        "style":"city"
       },
       "geometry": {
         "type": "Point",
@@ -202,14 +202,37 @@
     {
       "type": "Feature",
       "properties": {
-          "name":"Arrabar",
-          "style":"city"
+        "name":"Arrabar",
+        "style":"city"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [-44.15160540371749, 18.820694143321504]
-      }
+      },
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name":"Purskul",
+        "style":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.41763891960314, 23.844875636312764]
+      },
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name":"Veldinaar",
+        "style":"town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-71.71083477624204, 29.209963485815294]
+      },
     }
   ]
 }
+
 
