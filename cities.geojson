@@ -1,11 +1,10 @@
 {
   "type": "FeatureCollection",
-  "features": [
-    {
+  "features": [{
       "type": "Feature",
       "properties": {
-        "name":"Waterdeep",
-        "style":"city"
+        "name": "Waterdeep",
+        "style": "city"
       },
       "geometry": {
         "type": "Point",
@@ -15,8 +14,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name":"Neverwinter",
-        "style":"city"
+        "name": "Neverwinter",
+        "style": "city"
       },
       "geometry": {
         "type": "Point",
@@ -26,8 +25,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name":"Luskan",
-        "style":"city"
+        "name": "Luskan",
+        "style": "city"
       },
       "geometry": {
         "type": "Point",
@@ -37,8 +36,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name":"Baldur's Gate",
-        "style":"city"
+        "name": "Baldur's Gate",
+        "style": "city"
       },
       "geometry": {
         "type": "Point",
@@ -48,85 +47,85 @@
     {
       "type": "Feature",
       "properties": {
-        "name":"Athkatla",
-        "style":"city"
+        "name": "Athkatla",
+        "style": "city"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-70.50259876224578,23.98776578069659]
+        "coordinates": [-70.50259876224578, 23.98776578069659]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name":"Murann",
-        "style":"city"
+        "name": "Murann",
+        "style": "city"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-69.65352498242198,20.680930318604226]
+        "coordinates": [-69.65352498242198, 20.680930318604226]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name":"Velen",
-        "style":"city"
+        "name": "Velen",
+        "style": "city"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-74.486031273395,20.447780354543255]
+        "coordinates": [-74.486031273395, 20.447780354543255]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name":"Zazesspur",
-        "style":"city"
+        "name": "Zazesspur",
+        "style": "city"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-68.04533637402983,16.47716497387644]
+        "coordinates": [-68.04533637402983, 16.47716497387644]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name":"Corwell",
-        "style":"city"
+        "name": "Corwell",
+        "style": "city"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-82.10682146105584,25.53641836131942]
+        "coordinates": [-82.10682146105584, 25.53641836131942]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name":"Myratma",
-        "style":"city"
+        "name": "Myratma",
+        "style": "city"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-67.52942700509513,14.039689790000267]
+        "coordinates": [-67.52942700509513, 14.039689790000267]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name":"Memnon",
-        "style":"city"
+        "name": "Memnon",
+        "style": "city"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-68.52643625082962,13.318203670298885]
+        "coordinates": [-68.52643625082962, 13.318203670298885]
       }
     },
     {
       "type": "Feature",
       "properties": {
-        "name":"Darrowmar",
-        "style":"city"
+        "name": "Darrowmar",
+        "style": "city"
       },
       "geometry": {
         "type": "Point",
@@ -136,8 +135,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name":"Mintar",
-        "style":"city"
+        "name": "Mintar",
+        "style": "city"
       },
       "geometry": {
         "type": "Point",
@@ -147,8 +146,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name":"Saelmur",
-        "style":"city"
+        "name": "Saelmur",
+        "style": "city"
       },
       "geometry": {
         "type": "Point",
@@ -158,8 +157,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name":"Ankhapur",
-        "style":"city"
+        "name": "Ankhapur",
+        "style": "city"
       },
       "geometry": {
         "type": "Point",
@@ -169,8 +168,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name":"Surkh",
-        "style":"city"
+        "name": "Surkh",
+        "style": "city"
       },
       "geometry": {
         "type": "Point",
@@ -180,8 +179,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name":"Nimpeth",
-        "style":"city"
+        "name": "Nimpeth",
+        "style": "city"
       },
       "geometry": {
         "type": "Point",
@@ -191,8 +190,8 @@
     {
       "type": "Feature",
       "properties": {
-        "name":"Mimph",
-        "style":"city"
+        "name": "Mimph",
+        "style": "city"
       },
       "geometry": {
         "type": "Point",
@@ -202,37 +201,35 @@
     {
       "type": "Feature",
       "properties": {
-        "name":"Arrabar",
-        "style":"city"
+        "name": "Arrabar",
+        "style": "city"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [-44.15160540371749, 18.820694143321504]
-      },
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "name":"Purskul",
-        "style":"city"
+        "name": "Purskul",
+        "style": "city"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [-68.41763891960314, 23.844875636312764]
-      },
+      }
     },
     {
       "type": "Feature",
       "properties": {
-        "name":"Veldinaar",
-        "style":"town"
+        "name": "Veldinaar",
+        "style": "town"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [-71.71083477624204, 29.209963485815294]
-      },
+      }
     }
   ]
 }
-
-
