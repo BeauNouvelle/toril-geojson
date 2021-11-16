@@ -230,6 +230,30 @@
         "type": "Point",
         "coordinates": [-71.50562106050587, 30.880615184691607]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Leilon",
+        "style": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.29340709068389, 41.452064699762246] 
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rassalantar",
+        "style": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.47839887974914, 39.284998633119045]
+      }
     }
   ]
 }
+
+
