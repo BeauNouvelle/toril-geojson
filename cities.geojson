@@ -88,9 +88,41 @@
         "type": "Point",
         "coordinates": [-68.04533637402983,16.47716497387644]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name":"Corwell",
+          "style":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.10682146105584,25.53641836131942]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name":"Myratma",
+          "style":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-67.52942700509513,14.039689790000267]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name":"Memnon",
+          "style":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.52643625082962,13.318203670298885]
+      }
     }
   ]
 }
-
 
 
