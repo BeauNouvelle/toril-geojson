@@ -3,17 +3,15 @@
 	"features": [ 
 		{
 			"type": "Feature",
-			"id": "1",
 			"geometry": {
-				"type": "LineString",
+				"type": "Point",
 				"coordinates": [
-					[-74.81353206997285, 38.63419756698954],
-					[-74.81292582595796, 38.62585502948599]
+					[-74.81550476279052, 38.624504850215885]
 				]
 			},
 			"properties": {
-				"is_in": "Waterdeep",
-				"name": "The High Road"
+				"is_in": "Castle Waterdeep",
+				"name": ""
 			}
 		}
 	]
