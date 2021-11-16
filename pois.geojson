@@ -12,7 +12,7 @@
 			"properties": {
 				"is_in": "Waterdeep",
 				"name": "Castle Waterdeep",
-				"style": "POI"
+				"style": "castle"
 			}
 		}
 	]
