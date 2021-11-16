@@ -44,6 +44,53 @@
         "type": "Point",
         "coordinates": [-70.60290749930321, 30.545202102349634]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name":"Athkatla",
+          "style":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-70.50259876224578,23.98776578069659]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name":"Murann",
+          "style":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-69.65352498242198,20.680930318604226]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name":"Velen",
+          "style":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.486031273395,20.447780354543255]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name":"Zazesspur",
+          "style":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-68.04533637402983,16.47716497387644]
+      }
     }
   ]
 }
+
+
+
