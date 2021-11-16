@@ -10,8 +10,9 @@
 				]
 			},
 			"properties": {
-				"is_in": "Castle Waterdeep",
-				"name": ""
+				"is_in": "Waterdeep",
+				"name": "Castle Waterdeep",
+				"style": "POI"
 			}
 		}
 	]
