@@ -294,7 +294,44 @@
         "is_in": "Waterdeep",
         "name": "Burnt Inn Street"
       }
+    },
+        {
+      "type": "Feature",
+      "id": "20",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+-74.81824794485124,38.64468277710094],
+[-74.8180828622965,38.64460012638804],
+[-74.81784582067945,38.64456045401204]
+
+        ]
+      },
+      "properties": {
+        "is_in": "Waterdeep",
+        "name": "Trollwall Way"
+      }
+    },
+            {
+      "type": "Feature",
+      "id": "21",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+[-74.81969982475572,38.644057935347774],
+[-74.81950511199885,38.64402156872876],
+[-74.81932005829059,38.64389289867091],
+[-74.81929042808846,38.64372759532779]
+
+        ]
+      },
+      "properties": {
+        "is_in": "Waterdeep",
+        "name": "Boltspring Alley"
+      }
     }
   ]
 }
+
+
 
