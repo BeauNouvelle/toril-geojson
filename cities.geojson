@@ -121,8 +121,95 @@
         "type": "Point",
         "coordinates": [-68.52643625082962,13.318203670298885]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name":"Darrowmar",
+          "style":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-63.40076771695138, 15.2505144185984]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name":"Mintar",
+          "style":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-55.62207431032116, 13.53982653580745]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name":"Saelmur",
+          "style":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-53.162156988166814, 13.359573323266574]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name":"Ankhapur",
+          "style":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-50.634844670884924, 14.030727744667075]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name":"Surkh",
+          "style":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-50.83702965626748, 19.89383420391637]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name":"Nimpeth",
+          "style":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-45.85400515326558, 18.63836093680787]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name":"Mimph",
+          "style":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-44.7790610904313, 18.49868799156546]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+          "name":"Arrabar",
+          "style":"city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-44.15160540371749, 18.820694143321504]
+      }
     }
   ]
 }
-
 
