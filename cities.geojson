@@ -223,12 +223,12 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Veldinaar",
+        "name": "Ulgoth's Beard",
         "style": "town"
       },
       "geometry": {
         "type": "Point",
-        "coordinates": [-71.71083477624204, 29.209963485815294]
+        "coordinates": [-71.50562106050587, 30.880615184691607]
       }
     }
   ]
