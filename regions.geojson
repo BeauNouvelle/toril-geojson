@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-      "name":"Westwood"
+        "name":"Westwood"
       },
       "geometry": {
         "type": "LineString",
@@ -17,7 +17,7 @@
     {
       "type": "Feature",
       "properties": {
-      "name":"Kryptgarden Forest"
+        "name":"Kryptgarden Forest"
       },
       "geometry": {
         "type": "LineString",
@@ -31,7 +31,7 @@
     {
       "type": "Feature",
       "properties": {
-      "name":"Sword Mountains"
+        "name":"Sword Mountains"
       },
       "geometry": {
         "type": "LineString",
@@ -45,7 +45,7 @@
     {
       "type": "Feature",
       "properties": {
-      "name":"Star Mountains"
+        "name":"Star Mountains"
       },
       "geometry": {
         "type": "LineString",
@@ -58,7 +58,7 @@
     {
       "type": "Feature",
       "properties": {
-      "name":"Ardeep Forest"
+        "name":"Ardeep Forest"
       },
       "geometry": {
         "type": "LineString",
@@ -71,7 +71,7 @@
     {
       "type": "Feature",
       "properties": {
-      "name":"Forlorn Hills"
+        "name":"Forlorn Hills"
       },
       "geometry": {
         "type": "LineString",
@@ -91,8 +91,8 @@
         "type": "LineString",
         "coordinates": [
 
-[-74.82168386351485,38.64474665612153],
-[-74.82084151919709,38.64470698382664]
+          [-74.82168386351485,38.64474665612153],
+          [-74.82084151919709,38.64470698382664]
         ]
       }
     }
