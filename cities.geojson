@@ -48,7 +48,7 @@
       "type": "Feature",
       "properties": {
         "name": "Athkatla",
-        "style": "city"
+        "style": "capital"
       },
       "geometry": {
         "type": "Point",
