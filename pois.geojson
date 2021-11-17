@@ -17,7 +17,7 @@
 			"type": "Feature",
 			"properties": {
 				"is_in": "Waterdeep",
-				"name": "The Yawning Portal",
+				"name": "Yawning Portal",
 				"style": "tavern"
 			},
 			"geometry": {
