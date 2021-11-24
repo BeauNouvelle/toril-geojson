@@ -60,6 +60,18 @@
 				"type": "Point",
 				"coordinates":  [-74.82037604299252, 38.6439295619268]
 			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"is_in": "Waterdeep",
+				"name": "Gerin's Breads",
+				"style": "food"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates":  [-74.82152925506934, 38.64369759216103]
+			}
 		}
 	]
 }
