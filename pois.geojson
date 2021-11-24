@@ -24,6 +24,18 @@
 				"type": "Point",
 				"coordinates":  [-74.81371372466312, 38.623539740097016]
 			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"is_in": "Waterdeep",
+				"name": "Trollfort",
+				"style": "military"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates":  [-74.8216655559395, 38.645134466608965]
+			}
 		}
 	]
 }
