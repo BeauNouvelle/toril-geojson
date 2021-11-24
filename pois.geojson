@@ -84,9 +84,19 @@
 				"type": "Point",
 				"coordinates":  [-74.82164214762093, 38.642560137258215]
 			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"is_in": "Waterdeep",
+				"name": "Shrines of Nature",
+				"style": "park"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-74.82264017626889, 38.64048481024312]
+			}
 		}
 	]
 }
-
-
 

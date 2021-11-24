@@ -377,6 +377,22 @@
         "is_in": "Waterdeep",
         "name": "Seawind Alley"
       }
+    },
+    {
+      "type": "Feature",
+      "id": "25",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-74.82271753443402, 38.64254987247631],
+          [-74.82221493838277, 38.64243934687738]
+        ]
+      },
+      "properties": {
+        "is_in": "Waterdeep",
+        "name": "Breeze's Cut"
+      }
     }
   ]
 }
+
