@@ -156,6 +156,18 @@
 				"type": "Point",
 				"coordinates": [-74.81996006833438, 38.641573668078735]
 			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"is_in": "Waterdeep",
+				"name": "House of Crystal Storage",
+				"style": "storage"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-74.81503970239729, 38.63367308310325]
+			}
 		}
 	]
 }
