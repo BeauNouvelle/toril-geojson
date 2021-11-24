@@ -445,11 +445,39 @@
         "is_in": "Waterdeep",
         "name": "Nanze Street"
       }
+    },
+    {
+      "type": "Feature",
+      "id": "29",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-74.82148073039295, 38.64269370414584],
+          [-74.82060615273231, 38.642515238032814],
+          [-74.82015704528496, 38.642459851907375]
+        ]
+      },
+      "properties": {
+        "is_in": "Waterdeep",
+        "name": "Aurenaar Street"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "30",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-74.82015704528496, 38.642459851907375],
+          [-74.81981036585191, 38.6425644701084],
+          [-74.81960550982329, 38.64270601213724],
+          [-74.81936125840456, 38.642970633441365]
+        ]
+      },
+      "properties": {
+        "is_in": "Waterdeep",
+        "name": "Aurenaar Street"
+      }
     }
   ]
 }
-
-
-
-
-

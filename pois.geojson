@@ -144,11 +144,21 @@
 				"type": "Point",
 				"coordinates": [-74.80922486837534, 38.64031819470341]
 			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"is_in": "Waterdeep",
+				"name": "Storm's Front Tavern",
+				"style": "tavern"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-74.81996006833438, 38.641573668078735]
+			}
 		}
 	]
 }
-
-
 
 
 
