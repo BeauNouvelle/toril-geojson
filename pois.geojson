@@ -30,7 +30,7 @@
 			"properties": {
 				"is_in": "Waterdeep",
 				"name": "Trollfort",
-				"style": "military"
+				"style": "fort"
 			},
 			"geometry": {
 				"type": "Point",
