@@ -36,6 +36,20 @@
 				"type": "Point",
 				"coordinates":  [-74.8216655559395, 38.645134466608965]
 			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"is_in": "Waterdeep",
+				"name": "North Tower",
+				"style": "tower"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates":  [-74.82050123127894, 38.64439051056175]
+			}
 		}
 	]
 }
+
+
