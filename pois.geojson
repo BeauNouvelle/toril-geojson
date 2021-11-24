@@ -96,6 +96,18 @@
 				"type": "Point",
 				"coordinates": [-74.82264017626889, 38.64048481024312]
 			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"is_in": "Waterdeep",
+				"name": "Demondraught",
+				"style": "tavern"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-74.82028021940175, 38.642354934387754]
+			}
 		}
 	]
 }
