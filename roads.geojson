@@ -346,7 +346,37 @@
         "is_in": "Waterdeep",
         "name": "Cook Street"
       }
+    },
+    {
+      "type": "Feature",
+      "id": "23",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-74.82157260153065, 38.64401786752339],
+          [-74.82093138083302, 38.64357032519081]
+        ]
+      },
+      "properties": {
+        "is_in": "Waterdeep",
+        "name": "Street of Lances"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "24",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-74.8218132905252, 38.64325429697652],
+          [-74.82141572445329, 38.64360039509509],
+          [-74.82142400707978, 38.643736246236216]
+        ]
+      },
+      "properties": {
+        "is_in": "Waterdeep",
+        "name": "Seawind Alley"
+      }
     }
   ]
 }
-
