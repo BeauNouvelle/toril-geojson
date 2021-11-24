@@ -392,7 +392,24 @@
         "is_in": "Waterdeep",
         "name": "Breeze's Cut"
       }
+    },
+    {
+      "type": "Feature",
+      "id": "26",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-74.80867243475655, 38.64025253291973],
+          [-74.80820966235989, 38.64058436720177]
+        ]
+      },
+      "properties": {
+        "is_in": "Waterdeep",
+        "name": "Endshift Street"
+      }
     }
   ]
 }
+
+
 

@@ -120,9 +120,35 @@
 				"type": "Point",
 				"coordinates": [-74.81305957497399, 38.643517135473445]
 			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"is_in": "Waterdeep",
+				"name": "Endshift Tavern",
+				"style": "tavern"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-74.80866980752943, 38.640342619917675]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"is_in": "Waterdeep",
+				"name": "Farwatch Tower",
+				"style": "tower"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-74.80922486837534, 38.64031819470341]
+			}
 		}
 	]
 }
+
+
 
 
 
