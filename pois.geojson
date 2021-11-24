@@ -48,8 +48,21 @@
 				"type": "Point",
 				"coordinates":  [-74.82050123127894, 38.64439051056175]
 			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"is_in": "Waterdeep",
+				"name": "Sated Satyr",
+				"style": "tavern"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates":  [-74.82037604299252, 38.6439295619268]
+			}
 		}
 	]
 }
+
 
 
