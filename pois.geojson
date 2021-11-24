@@ -72,6 +72,18 @@
 				"type": "Point",
 				"coordinates":  [-74.82152925506934, 38.64369759216103]
 			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"is_in": "Waterdeep",
+				"name": "Wyvern's Rest",
+				"style": "inn"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates":  [-74.82164214762093, 38.642560137258215]
+			}
 		}
 	]
 }
