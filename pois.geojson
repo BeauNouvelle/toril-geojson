@@ -180,6 +180,18 @@
 				"type": "Point",
 				"coordinates": [-74.81975135238143, 38.64383207183343]
 			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"is_in": "Toril",
+				"name": "Arnrock",
+				"style": "volcano"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-50.441593534283726, 11.6124950033673]
+			}
 		}
 	]
 }
