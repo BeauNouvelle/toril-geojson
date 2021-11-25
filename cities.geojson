@@ -252,8 +252,42 @@
         "type": "Point",
         "coordinates": [-74.47839887974914, 39.284998633119045]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mirabar",
+        "style": "city"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-74.4849376361533, 45.99450662306407]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thundertree",
+        "style": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-77.24589738190677, 42.49852067440747]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Conyberry",
+        "style": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-75.98713934557613, 42.26434633778797]
+      }
     }
   ]
 }
+
 
 
