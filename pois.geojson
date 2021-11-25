@@ -168,9 +168,19 @@
 				"type": "Point",
 				"coordinates": [-74.81503970239729, 38.63367308310325]
 			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"is_in": "Waterdeep",
+				"name": "Armory",
+				"style": "arms"
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [-74.81975135238143, 38.64383207183343]
+			}
 		}
 	]
 }
-
-
 
