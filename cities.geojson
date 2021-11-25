@@ -296,8 +296,18 @@
         "type": "Point",
         "coordinates": [-85.8315905507604, 41.62508574738027]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Llorbauth",
+        "style": "capital"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-54.32023902842541, 21.20433339760747]
+      }
     }
   ]
-}
-
+} 
 
