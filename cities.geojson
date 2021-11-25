@@ -307,7 +307,29 @@
         "type": "Point",
         "coordinates": [-54.32023902842541, 21.20433339760747]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Aurilssbarg",
+        "style": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-84.80745181707184, 45.81410326073404]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fireshear",
+        "style": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-82.53437857907477, 45.70155512663791]
+      }
     }
   ]
-} 
+}
 
