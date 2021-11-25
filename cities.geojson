@@ -285,9 +285,19 @@
         "type": "Point",
         "coordinates": [-75.98713934557613, 42.26434633778797]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gundbarg",
+        "style": "town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-85.8315905507604, 41.62508574738027]
+      }
     }
   ]
 }
-
 
 
